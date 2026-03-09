@@ -1,8 +1,8 @@
-# Programming-Hero-Assignment-2
+# TechWave Podcast Website
 
-<p>To show the live preview <a href="https://nayon-kumar.github.io/Programming-Hero-Assignment-2/">Click Here</a></p>
+<p>To show the live preview <a href="https://nayon-kumar.github.io/TechWave/">Click Here</a></p>
 
-## TechWave Podcast Website
+## Overview
 
 TechWave is a modern and responsive **Podcast Landing Page** designed for showcasing podcast episodes, host information, and community statistics.  
 The website provides an engaging user experience with animated UI elements, responsive layouts, and embedded podcast episodes.
